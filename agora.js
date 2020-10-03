@@ -1,4 +1,5 @@
 // simple JS interface for Agora.io web SDK
+import AgoraRTC from 'AgoraRTCSDK-3.2.1.js'
 
 // app / channel settings
 var agoraAppId = "f137ab97631d44389c9d247435c0eb6a"; // Set your Agora App ID
